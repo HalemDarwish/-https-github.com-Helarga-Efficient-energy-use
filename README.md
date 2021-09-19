@@ -18,7 +18,7 @@ You can "pull-commit codes and changes".
 
    **LinuxOS users instructions**
 
-For Linux users, you intercat with github through terminal commands, I shall demonstrate it during next lectures if requested by any of you :).
+For Linux users, you interact with github through terminal commands, I shall demonstrate it during next lectures if requested by any of you :).
 
    **WindowsOS users instructions**
 
