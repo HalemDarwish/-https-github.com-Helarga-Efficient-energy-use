@@ -56,7 +56,6 @@ or of course, you can use your locally installed MATLAB :).
 
 5- Now open quasi SS folder and run the code.
 
-
 ## **EnergyPlus WindowsOS**
 
 1- Install EnergyPlus from
