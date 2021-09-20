@@ -38,7 +38,7 @@ https://git-scm.com/download/win
 
 ![image3](https://github.com/Helarga/FENT2313-Effektiv-energibruk/blob/main/Resources/3.png)
 
-## **Online Matlabc**
+## **Online Matlab**
 
 1- create an account using your student's email and login
 
