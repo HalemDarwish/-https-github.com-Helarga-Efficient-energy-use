@@ -72,6 +72,9 @@ https://energyplus.net/downloads  *select Linux
 https://energyplus.net/installation#linux
 
 
+## **Modelica- Linux users**
+I will show you the steps of how to install Dymola 2022 in the lecture ;).
+
 ## **Modelica- Windows users**
 
 1- Install Dymola from T:\iv\ept\EPT_Shared\ITinfo\Dymola\2022
@@ -79,3 +82,4 @@ https://energyplus.net/installation#linux
 2- Download and install Visual Studio 2019 Community.
 
 3- Open Dymola, Simulation > Setup > compiler tab and check your compiler
+
